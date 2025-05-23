@@ -1,6 +1,10 @@
 <?php
 
 /**
+ * AGREGAMOS ESTE COMENTARIO PARA LA TAREA 5 DE DAW
+ * Y REALIZAR NUESTRO SEGUNDO COMMIT
+ * 
+ * 
  * @description Funcion para obtener los detalles de un usuario
  * @file practica-espana.php
  * @param PDO $pdo Conexi�n a la base de datos
